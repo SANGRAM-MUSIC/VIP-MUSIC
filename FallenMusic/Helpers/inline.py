@@ -48,6 +48,9 @@ buttons = InlineKeyboardMarkup(
       InlineKeyboardButton(text="🌷𝐉𝐨𝐢𝐧 𝐏𝐥𝐬🍒", url=f"https://t.me/VIP_CREATORS"),
       InlineKeyboardButton(text="🍒𝐂𝐨𝐦𝐞 𝐁𝐚𝐛𝐲😘", url=f"https://t.me/TG_FRIENDSS")
     ],
+    [
+      InlineKeyboardButton(text="★ 𝐎𝐰𝐧𝐞𝐫'𝐱𝐃 ★", url=f"https://t.me/THE_VIP_BOY"),
+      
   ]
 )
 
@@ -68,7 +71,7 @@ pm_buttons = [
         InlineKeyboardButton(
             text="🌱sᴏᴜʀᴄᴇ🌱", url="https://github.com/THE-VIP-BOY-OP/VIP-MUSIC"
         ),
-        InlineKeyboardButton(text="🥀ᴅᴇᴠᴇʟᴏᴩᴇʀ🥀", user_id=config.OWNER_ID),
+        InlineKeyboardButton(text="★ 𝐎𝐰𝐧𝐞𝐫'𝐱𝐃 ★", user_id=config.OWNER_ID),
     ],
 ]
 
@@ -88,7 +91,7 @@ gp_buttons = [
         InlineKeyboardButton(
             text="🌱sᴏᴜʀᴄᴇ🌱", url="https://github.com/THE-VIP-BOY-OP/VIP-MUSIC"
         ),
-        InlineKeyboardButton(text="🥀 ᴅᴇᴠᴇʟᴏᴩᴇʀ 🥀", user_id=config.OWNER_ID),
+        InlineKeyboardButton(text="★ 𝐎𝐰𝐧𝐞𝐫'𝐱𝐃 ★", user_id=config.OWNER_ID),
     ],
 ]
 
@@ -124,7 +127,7 @@ help_back = [
             url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
         )
     ],
-    [InlineKeyboardButton(text="✨GROUP✨", url=config.SUPPORT_CHAT)],
+    [InlineKeyboardButton(text="🍒𝐂𝐨𝐦𝐞 𝐁𝐚𝐛𝐲😘", url=config.SUPPORT_CHAT)],
     [
         InlineKeyboardButton(text="✯ ʙᴀᴄᴋ ✯", callback_data="fallen_help"),
         InlineKeyboardButton(text="✯ ᴄʟᴏsᴇ ✯", callback_data="close"),
