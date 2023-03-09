@@ -51,10 +51,9 @@ buttons = InlineKeyboardMarkup(
     [
       InlineKeyboardButton(text="★ 𝐎𝐰𝐧𝐞𝐫'𝐱𝐃 ★", url=f"https://t.me/THE_VIP_BOY"),
       
-  ]
+  ],
 ]
-
-
+)
 pm_buttons = [
     [
         InlineKeyboardButton(
